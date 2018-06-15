@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/6/15 11:39:57。
+     1>项目“E:\ProgramFilesForWin7x64\SeetaFace\SeetaFaceEngine\FaceDetection\examples\examples\examples.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IE:\ProgramFilesForWin7x64\OpenCV\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D USE_OPENMP /D SEETA_EXPORTS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /openmp /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt ..\..\src\test\facedetection_test.cpp
+         facedetection_test.cpp
+     1>e:\programfilesforwin7x64\seetaface\seetafaceengine\facedetection\src\test\facedetection_test.cpp(97): warning C4244: “初始化”: 从“int64”转换到“long”，可能丢失数据
+     1>e:\programfilesforwin7x64\seetaface\seetafaceengine\facedetection\src\test\facedetection_test.cpp(102): warning C4244: “初始化”: 从“int64”转换到“long”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ProgramFilesForWin7x64\SeetaFace\SeetaFaceEngine\FaceDetection\examples\x64\Debug\examples.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\ProgramFilesForWin7x64\OpenCV\opencv\build\x64\vc15\lib opencv_world341d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\ProgramFilesForWin7x64\SeetaFace\SeetaFaceEngine\FaceDetection\examples\x64\Debug\examples.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ProgramFilesForWin7x64\SeetaFace\SeetaFaceEngine\FaceDetection\examples\x64\Debug\examples.lib" /MACHINE:X64 x64\Debug\facedetection_test.obj
+         E:\ProgramFilesForWin7x64\SeetaFace\SeetaFaceEngine\FaceDetection\examples\x64\Debug\FaceDetection.lib
+         examples.vcxproj -> E:\ProgramFilesForWin7x64\SeetaFace\SeetaFaceEngine\FaceDetection\examples\x64\Debug\examples.exe
+     1>已完成生成项目“E:\ProgramFilesForWin7x64\SeetaFace\SeetaFaceEngine\FaceDetection\examples\examples\examples.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.97
