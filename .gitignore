@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+*.examples.sdf
+*.examples.sln
+*.examples.v12.suo
+FaceDetection/examples/.vs/*
+FaceAlignment/examples/.vs/*
+FaceIdentification/examples/.vs/*
+
+
+
